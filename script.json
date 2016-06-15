@@ -4,7 +4,5 @@
     "HI": "Hi there! I'm the personal FAQ bot of Crosshair Music!\nAsk me WHAT IS CROSSHAIR?, WHAT DO I GET?, WHY $250?, or WHAT ARE THE DOWNSIDES? and I'll be happy to answer your questions.\nYou can say CONNECT ME and our team will respond to your directly!",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, CrosshairBot is back."
-    ""
-    
+    "DISCONNECT": "Roger that, CrosshairBot is back.",
 }
